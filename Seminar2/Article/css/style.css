@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+p{
+    font-style: normal;
+    font: arial;
+}
+h1{
+    color: rgb(187, 32, 211);
+}
+p.big_text{
+    font-size: 4rem;
+}
